@@ -16,7 +16,7 @@
 }
 
 .input__box:focus {
-  box-shadow: 0 0 10px 1000px rgba(33, 12, 222, 0.598);
+  box-shadow: 0 0 10px 1000px #ACBAA1;
   outline: none;
 }
 
@@ -29,14 +29,14 @@
   right: 0px;
   border: none;
   font-size: 15px;
-  background-color: #978fe0;
+  background-color: #ACBAA1;
   color: white;
   transition: 0.2s all;
   box-shadow: 0 0 10px black;
 }
 
 .input__submit:hover {
-  background-color: #978fe0b0;
+  background-color: #b2c1a2;
 }
 
 .input__submit:active {
